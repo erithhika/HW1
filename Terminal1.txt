@@ -1,0 +1,60 @@
+Администратор@marianna MINGW64 /d/Пользователи/Эрика/Desktop/QA курсы/git
+$ pwd
+/d/Пользователи/Эрика/Desktop/QA курсы/git
+
+Администратор@marianna MINGW64 /d/Пользователи/Эрика/Desktop/QA курсы/git
+$ mkdir hw1
+
+Администратор@marianna MINGW64 /d/Пользователи/Эрика/Desktop/QA курсы/git
+$ cd hw1
+
+Администратор@marianna MINGW64 /d/Пользователи/Эрика/Desktop/QA курсы/git/hw1
+$ mkdir first second third
+
+Администратор@marianna MINGW64 /d/Пользователи/Эрика/Desktop/QA курсы/git/hw1
+$ cd first
+
+Администратор@marianna MINGW64 /d/Пользователи/Эрика/Desktop/QA курсы/git/hw1/first
+$ touch one.txt two.txt three.txt
+
+Администратор@marianna MINGW64 /d/Пользователи/Эрика/Desktop/QA курсы/git/hw1/first
+$ touch four.json five.json
+
+Администратор@marianna MINGW64 /d/Пользователи/Эрика/Desktop/QA курсы/git/hw1/first
+$ mkdir fourth fifth sixth
+
+Администратор@marianna MINGW64 /d/Пользователи/Эрика/Desktop/QA курсы/git/hw1/first
+$ ls -la
+total 8
+drwxr-xr-x 1 Администратор 197121 0 May 30 18:10 ./
+drwxr-xr-x 1 Администратор 197121 0 May 30 18:09 ../
+drwxr-xr-x 1 Администратор 197121 0 May 30 18:19 first/
+drwxr-xr-x 1 Администратор 197121 0 May 30 18:10 second/
+drwxr-xr-x 1 Администратор 197121 0 May 30 18:10 third/
+
+Администратор@marianna MINGW64 /d/Пользователи/Эрика/Desktop/QA курсы/git/hw1/first
+$ cat > one.txt
+hi mentor:)
+
+
+Администратор@marianna MINGW64 /d/Пользователи/Эрика/Desktop/QA курсы/git/hw1/first
+$ cd ..
+
+Администратор@marianna MINGW64 /d/Пользователи/Эрика/Desktop/QA курсы/git/hw1
+$ cd first
+
+Администратор@marianna MINGW64 /d/Пользователи/Эрика/Desktop/QA курсы/git/hw1/first
+$ mv two.txt fifth
+
+Администратор@marianna MINGW64 /d/Пользователи/Эрика/Desktop/QA курсы/git/hw1/first
+$ mv three.txt fourth
+
+Администратор@marianna MINGW64 /d/Пользователи/Эрика/Desktop/QA курсы/git/hw1/first
+$ cp one.txt sixth
+
+Администратор@marianna MINGW64 /d/Пользователи/Эрика/Desktop/QA курсы/git/hw1/first
+$ cp five.json fourth
+
+Администратор@marianna MINGW64 /d/Пользователи/Эрика/Desktop/QA курсы/git/hw1/first
+$ find . -iname "two*"
+./fifth/two.txt
