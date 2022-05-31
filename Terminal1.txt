@@ -58,3 +58,13 @@ $ cp five.json fourth
 Администратор@marianna MINGW64 /d/Пользователи/Эрика/Desktop/QA курсы/git/hw1/first
 $ find . -iname "two*"
 ./fifth/two.txt
+
+Администратор@marianna MINGW64 /d/Пользователи/Эрика/Desktop/QA курсы/git/hw1/first
+$ cat > one.txt
+i have done my homework
+~~~~
+
+Администратор@marianna MINGW64 /d/Пользователи/Эрика/Desktop/QA курсы/git/hw1/first
+$ tail -f one.txt
+i have done my homework
+~~~~
