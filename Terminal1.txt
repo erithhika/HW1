@@ -35,7 +35,7 @@ drwxr-xr-x 1 Администратор 197121 0 May 30 18:10 third/
 Администратор@marianna MINGW64 /d/Пользователи/Эрика/Desktop/QA курсы/git/hw1/first
 $ cat > one.txt
 hi mentor:)
-
+(Ctrl+C)
 
 Администратор@marianna MINGW64 /d/Пользователи/Эрика/Desktop/QA курсы/git/hw1/first
 $ cd ..
