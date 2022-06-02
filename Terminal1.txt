@@ -63,6 +63,7 @@ $ find . -iname "two*"
 $ cat > one.txt
 i have done my homework
 ~~~~
+(Ctrl+C)
 
 Администратор@marianna MINGW64 /d/Пользователи/Эрика/Desktop/QA курсы/git/hw1/first
 $ tail -f one.txt
