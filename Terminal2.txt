@@ -68,7 +68,7 @@ $ cd inner_dir_1
 Администратор@marianna MINGW64 /d/Пользователи/Эрика/Desktop/QA курсы/git/hw2/dir_1/inner_dir_1
 $ cat > tf_3
 the SeCoNd 2
-
+(Ctrl+C)
 
 Администратор@marianna MINGW64 /d/Пользователи/Эрика/Desktop/QA курсы/git/hw2/dir_1/inner_dir_1
 $ cd ..
@@ -76,7 +76,7 @@ $ cd ..
 Администратор@marianna MINGW64 /d/Пользователи/Эрика/Desktop/QA курсы/git/hw2/dir_1
 $ cat > tf_2.txt
 the seCoNd 2
-
+(Ctrl+C)
 
 Администратор@marianna MINGW64 /d/Пользователи/Эрика/Desktop/QA курсы/git/hw2/dir_1
 $ cd inner_dir_1
@@ -98,7 +98,7 @@ $ cat >> tf_4
 13
 14
 15
-
+(Ctrl+C)
 
 Администратор@marianna MINGW64 /d/Пользователи/Эрика/Desktop/QA курсы/git/hw2/dir_1/inner_dir_1
 $ cat >> tF_5
@@ -115,7 +115,7 @@ $ cat >> tF_5
 11
 12
 13
-
+(Ctrl+C)s
 
 Администратор@marianna MINGW64 /d/Пользователи/Эрика/Desktop/QA курсы/git/hw2/dir_1/inner_dir_1
 $ ls -la
