@@ -27,7 +27,7 @@ $ cd inner_dir_1
 Администратор@marianna MINGW64 /d/Пользователи/Эрика/Desktop/QA курсы/git/hw2/dir_1/inner_dir_1
 $ cat >> tf_3.txt
 some random text:)
-
+(Ctrl+C)
 
 Администратор@marianna MINGW64 /d/Пользователи/Эрика/Desktop/QA курсы/git/hw2/dir_1/inner_dir_1
 $ cat > tf_1.txt
