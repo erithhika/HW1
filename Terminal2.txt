@@ -45,7 +45,7 @@ the SeCoNd 2
 $ cat > tf_3.txt
 the second 2
 the sec 2
-
+(Ctrl+C)
 
 Администратор@marianna MINGW64 /d/Пользователи/Эрика/Desktop/QA курсы/git/hw2/dir_1/inner_dir_1
 $ cat > tf_2.txt
@@ -60,7 +60,7 @@ $ cd ..
 Администратор@marianna MINGW64 /d/Пользователи/Эрика/Desktop/QA курсы/git/hw2/dir_1
 $ cat > tf_2.txt
 the sec 3
-
+(Ctrl+C)
 
 Администратор@marianna MINGW64 /d/Пользователи/Эрика/Desktop/QA курсы/git/hw2/dir_1
 $ cd inner_dir_1
