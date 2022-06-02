@@ -1,1 +1,138 @@
-HW2
+Администратор@marianna MINGW64 /d/Пользователи/Эрика/Desktop/QA курсы/git/hw2
+$ mkdir dir_1
+
+Администратор@marianna MINGW64 /d/Пользователи/Эрика/Desktop/QA курсы/git/hw2
+$ cd dir_1
+
+Администратор@marianna MINGW64 /d/Пользователи/Эрика/Desktop/QA курсы/git/hw2/dir_1
+$ mkdir inner_dir_1
+
+Администратор@marianna MINGW64 /d/Пользователи/Эрика/Desktop/QA курсы/git/hw2/dir_1
+$ pwd
+/d/Пользователи/Эрика/Desktop/QA курсы/git/hw2/dir_1
+
+Администратор@marianna MINGW64 /d/Пользователи/Эрика/Desktop/QA курсы/git/hw2/dir_1
+$ rm tf_1.txt
+rm: cannot remove 'tf_1.txt': No such file or directory
+
+Администратор@marianna MINGW64 /d/Пользователи/Эрика/Desktop/QA курсы/git/hw2/dir_1
+$ touch tf_1.txt
+
+Администратор@marianna MINGW64 /d/Пользователи/Эрика/Desktop/QA курсы/git/hw2/dir_1
+$ cat >> tf_2.txt
+- the first
+- the second
+- the third
+
+
+Администратор@marianna MINGW64 /d/Пользователи/Эрика/Desktop/QA курсы/git/hw2/dir_1
+$ cd inner_dir_1
+
+Администратор@marianna MINGW64 /d/Пользователи/Эрика/Desktop/QA курсы/git/hw2/dir_1/inner_dir_1
+$ cat >> tf_3.txt
+some random text:)
+
+
+Администратор@marianna MINGW64 /d/Пользователи/Эрика/Desktop/QA курсы/git/hw2/dir_1/inner_dir_1
+$ cat > tf_1.txt
+the second 2
+
+
+Администратор@marianna MINGW64 /d/Пользователи/Эрика/Desktop/QA курсы/git/hw2/dir_1/inner_dir_1
+$ cat > tf_1.txt
+the sec 2
+the SeCoNd 2
+
+
+Администратор@marianna MINGW64 /d/Пользователи/Эрика/Desktop/QA курсы/git/hw2/dir_1/inner_dir_1
+$ rm tf_1.txt
+
+Администратор@marianna MINGW64 /d/Пользователи/Эрика/Desktop/QA курсы/git/hw2/dir_1/inner_dir_1
+$ cat > tf_3.txt
+the second 2
+the sec 2
+
+
+Администратор@marianna MINGW64 /d/Пользователи/Эрика/Desktop/QA курсы/git/hw2/dir_1/inner_dir_1
+$ cat > tf_2.txt
+
+
+Администратор@marianna MINGW64 /d/Пользователи/Эрика/Desktop/QA курсы/git/hw2/dir_1/inner_dir_1
+$ rm tf_2.txt
+
+Администратор@marianna MINGW64 /d/Пользователи/Эрика/Desktop/QA курсы/git/hw2/dir_1/inner_dir_1
+$ cd ..
+
+Администратор@marianna MINGW64 /d/Пользователи/Эрика/Desktop/QA курсы/git/hw2/dir_1
+$ cat > tf_2.txt
+the sec 3
+
+
+Администратор@marianna MINGW64 /d/Пользователи/Эрика/Desktop/QA курсы/git/hw2/dir_1
+$ cd inner_dir_1
+
+Администратор@marianna MINGW64 /d/Пользователи/Эрика/Desktop/QA курсы/git/hw2/dir_1/inner_dir_1
+$ cat > tf_3
+the SeCoNd 2
+
+
+Администратор@marianna MINGW64 /d/Пользователи/Эрика/Desktop/QA курсы/git/hw2/dir_1/inner_dir_1
+$ cd ..
+
+Администратор@marianna MINGW64 /d/Пользователи/Эрика/Desktop/QA курсы/git/hw2/dir_1
+$ cat > tf_2.txt
+the seCoNd 2
+
+
+Администратор@marianna MINGW64 /d/Пользователи/Эрика/Desktop/QA курсы/git/hw2/dir_1
+$ cd inner_dir_1
+
+Администратор@marianna MINGW64 /d/Пользователи/Эрика/Desktop/QA курсы/git/hw2/dir_1/inner_dir_1
+$ cat >> tf_4
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+
+
+Администратор@marianna MINGW64 /d/Пользователи/Эрика/Desktop/QA курсы/git/hw2/dir_1/inner_dir_1
+$ cat >> tF_5
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+
+
+Администратор@marianna MINGW64 /d/Пользователи/Эрика/Desktop/QA курсы/git/hw2/dir_1/inner_dir_1
+$ ls -la
+total 4
+drwxr-xr-x 1 Администратор 197121  0 Jun  2 17:35 ./
+drwxr-xr-x 1 Администратор 197121  0 Jun  2 17:21 ../
+-rw-r--r-- 1 Администратор 197121 30 Jun  2 17:35 tF_5
+-rw-r--r-- 1 Администратор 197121 13 Jun  2 17:32 tf_3
+-rw-r--r-- 1 Администратор 197121 89 Jun  2 17:29 tf_3.txt
+-rw-r--r-- 1 Администратор 197121 34 Jun  2 17:35 tf_4
+
+Администратор@marianna MINGW64 /d/Пользователи/Эрика/Desktop/QA курсы/git/hw2/dir_1/inner_dir_1
+$ cd ..
+
