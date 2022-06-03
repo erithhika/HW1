@@ -76,3 +76,5 @@ $ less one.txt
 Администратор@marianna MINGW64 /d/Пользователи/Эрика/Desktop/QA курсы/git/hw1/first
 $ date
 Wed Jun  1 20:34:32 RTZ 2022
+
+the end))
