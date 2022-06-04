@@ -1,9 +1,9 @@
 Администратор@marianna MINGW64 /d/Пользователи/Эрика/Desktop/QA курсы/git
-$ pwd
+1)$ pwd
 /d/Пользователи/Эрика/Desktop/QA курсы/git
 
 Администратор@marianna MINGW64 /d/Пользователи/Эрика/Desktop/QA курсы/git
-$ mkdir hw1
+2)$ mkdir hw1
 
 Администратор@marianna MINGW64 /d/Пользователи/Эрика/Desktop/QA курсы/git
 $ cd hw1
