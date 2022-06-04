@@ -1,11 +1,11 @@
 Администратор@marianna MINGW64 /d/Пользователи/Эрика/Desktop/QA курсы/git/hw2
-$ mkdir dir_1
+1)$ mkdir dir_1
 
 Администратор@marianna MINGW64 /d/Пользователи/Эрика/Desktop/QA курсы/git/hw2
-$ cd dir_1
+2)$ cd dir_1
 
 Администратор@marianna MINGW64 /d/Пользователи/Эрика/Desktop/QA курсы/git/hw2/dir_1
-$ mkdir inner_dir_1
+3)$ mkdir inner_dir_1
 
 Администратор@marianna MINGW64 /d/Пользователи/Эрика/Desktop/QA курсы/git/hw2/dir_1
 $ pwd
