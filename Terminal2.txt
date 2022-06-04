@@ -8,14 +8,14 @@
 3)$ mkdir inner_dir_1
 
 Администратор@marianna MINGW64 /d/Пользователи/Эрика/Desktop/QA курсы/git/hw2/dir_1
-$ pwd
+4)$ pwd
 /d/Пользователи/Эрика/Desktop/QA курсы/git/hw2/dir_1
 
 Администратор@marianna MINGW64 /d/Пользователи/Эрика/Desktop/QA курсы/git/hw2/dir_1
-$ touch tf_1.txt
+5)$ touch tf_1.txt
 
 Администратор@marianna MINGW64 /d/Пользователи/Эрика/Desktop/QA курсы/git/hw2/dir_1
-$ cat >> tf_2.txt
+6)$ cat >> tf_2.txt
 - the first
 - the second
 - the third
