@@ -6,10 +6,10 @@
 2)$ mkdir hw1
 
 Администратор@marianna MINGW64 /d/Пользователи/Эрика/Desktop/QA курсы/git
-$ cd hw1
+3)$ cd hw1
 
 Администратор@marianna MINGW64 /d/Пользователи/Эрика/Desktop/QA курсы/git/hw1
-$ mkdir first second third
+4)$ mkdir first second third
 
 Администратор@marianna MINGW64 /d/Пользователи/Эрика/Desktop/QA курсы/git/hw1
 $ cd first
