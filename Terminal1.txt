@@ -12,13 +12,13 @@
 4)$ mkdir first second third
 
 Администратор@marianna MINGW64 /d/Пользователи/Эрика/Desktop/QA курсы/git/hw1
-$ cd first
+5)$ cd first
 
 Администратор@marianna MINGW64 /d/Пользователи/Эрика/Desktop/QA курсы/git/hw1/first
-$ touch one.txt two.txt three.txt
+6)$ touch one.txt two.txt three.txt
 
 Администратор@marianna MINGW64 /d/Пользователи/Эрика/Desktop/QA курсы/git/hw1/first
-$ touch four.json five.json
+7)$ touch four.json five.json
 
 Администратор@marianna MINGW64 /d/Пользователи/Эрика/Desktop/QA курсы/git/hw1/first
 $ mkdir fourth fifth sixth
