@@ -21,10 +21,10 @@
 7)$ touch four.json five.json
 
 Администратор@marianna MINGW64 /d/Пользователи/Эрика/Desktop/QA курсы/git/hw1/first
-$ mkdir fourth fifth sixth
+8)$ mkdir fourth fifth sixth
 
 Администратор@marianna MINGW64 /d/Пользователи/Эрика/Desktop/QA курсы/git/hw1/first
-$ ls -la
+9)$ ls -la
 total 8
 drwxr-xr-x 1 Администратор 197121 0 May 30 18:10 ./
 drwxr-xr-x 1 Администратор 197121 0 May 30 18:09 ../
@@ -33,7 +33,7 @@ drwxr-xr-x 1 Администратор 197121 0 May 30 18:10 second/
 drwxr-xr-x 1 Администратор 197121 0 May 30 18:10 third/
 
 Администратор@marianna MINGW64 /d/Пользователи/Эрика/Desktop/QA курсы/git/hw1/first
-$ cat > one.txt
+10)$ cat > one.txt
 hi mentor:)
 (Ctrl+C)
 
