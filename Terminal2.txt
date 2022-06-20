@@ -1,21 +1,21 @@
 Администратор@marianna MINGW64 /d/Пользователи/Эрика/Desktop/QA курсы/git/hw2
-$ mkdir dir_1
+1)$ mkdir dir_1
 
 Администратор@marianna MINGW64 /d/Пользователи/Эрика/Desktop/QA курсы/git/hw2
-$ cd dir_1
+2)$ cd dir_1
 
 Администратор@marianna MINGW64 /d/Пользователи/Эрика/Desktop/QA курсы/git/hw2/dir_1
-$ mkdir inner_dir_1
+3)$ mkdir inner_dir_1
 
 Администратор@marianna MINGW64 /d/Пользователи/Эрика/Desktop/QA курсы/git/hw2/dir_1
-$ pwd
+4)$ pwd
 /d/Пользователи/Эрика/Desktop/QA курсы/git/hw2/dir_1
 
 Администратор@marianna MINGW64 /d/Пользователи/Эрика/Desktop/QA курсы/git/hw2/dir_1
-$ touch tf_1.txt
+5)$ touch tf_1.txt
 
 Администратор@marianna MINGW64 /d/Пользователи/Эрика/Desktop/QA курсы/git/hw2/dir_1
-$ cat >> tf_2.txt
+6)$ cat >> tf_2.txt
 - the first
 - the second
 - the third
@@ -126,6 +126,7 @@ drwxr-xr-x 1 Администратор 197121  0 Jun  2 17:21 ../
 -rw-r--r-- 1 Администратор 197121 13 Jun  2 17:32 tf_3
 -rw-r--r-- 1 Администратор 197121 89 Jun  2 17:29 tf_3.txt
 -rw-r--r-- 1 Администратор 197121 34 Jun  2 17:35 tf_4
+
 
 Администратор@marianna MINGW64 /d/Пользователи/Эрика/Desktop/QA курсы/git/hw2/dir_1/inner_dir_1
 $ cd ..
