@@ -1,28 +1,36 @@
+1)
 Администратор@marianna MINGW64 /d/Пользователи/Эрика/Desktop/QA курсы/git
 $ pwd
 /d/Пользователи/Эрика/Desktop/QA курсы/git
 
+2)
 Администратор@marianna MINGW64 /d/Пользователи/Эрика/Desktop/QA курсы/git
 $ mkdir hw1
 
+3)
 Администратор@marianna MINGW64 /d/Пользователи/Эрика/Desktop/QA курсы/git
 $ cd hw1
 
+4)
 Администратор@marianna MINGW64 /d/Пользователи/Эрика/Desktop/QA курсы/git/hw1
 $ mkdir first second third
 
+5)
 Администратор@marianna MINGW64 /d/Пользователи/Эрика/Desktop/QA курсы/git/hw1
 $ cd first
 
+6)
 Администратор@marianna MINGW64 /d/Пользователи/Эрика/Desktop/QA курсы/git/hw1/first
 $ touch one.txt two.txt three.txt
 
 Администратор@marianna MINGW64 /d/Пользователи/Эрика/Desktop/QA курсы/git/hw1/first
 $ touch four.json five.json
 
+7)
 Администратор@marianna MINGW64 /d/Пользователи/Эрика/Desktop/QA курсы/git/hw1/first
 $ mkdir fourth fifth sixth
 
+8)
 Администратор@marianna MINGW64 /d/Пользователи/Эрика/Desktop/QA курсы/git/hw1/first
 $ ls -la
 total 8
@@ -32,11 +40,13 @@ drwxr-xr-x 1 Администратор 197121 0 May 30 18:19 first/
 drwxr-xr-x 1 Администратор 197121 0 May 30 18:10 second/
 drwxr-xr-x 1 Администратор 197121 0 May 30 18:10 third/
 
+9)+10)+11)
 Администратор@marianna MINGW64 /d/Пользователи/Эрика/Desktop/QA курсы/git/hw1/first
 $ cat > one.txt
 hi mentor:)
 (Ctrl+C)
 
+12)
 Администратор@marianna MINGW64 /d/Пользователи/Эрика/Desktop/QA курсы/git/hw1/first
 $ cd ..
 
@@ -73,6 +83,7 @@ i have done my homework
 Администратор@marianna MINGW64 /d/Пользователи/Эрика/Desktop/QA курсы/git/hw1/first
 $ less one.txt
 
+20)
 Администратор@marianna MINGW64 /d/Пользователи/Эрика/Desktop/QA курсы/git/hw1/first
 $ date
 Wed Jun  1 20:34:32 RTZ 2022
